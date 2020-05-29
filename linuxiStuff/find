@@ -1,0 +1,2 @@
+//  It prints the pathname of the current file to standard output, followed by an ASCII NUL character (character code 0).
+find . -name react -type f -print0

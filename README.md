@@ -1,2 +1,1 @@
-# regex
-Repo to learn, remember, practice and share useful regular expressions. 
+Random stuff learned over time.
